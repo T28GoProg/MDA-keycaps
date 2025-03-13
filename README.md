@@ -1,4 +1,6 @@
 # MDA-keycaps
-MDA keycaps profile data come from. It model create by FreeCAD.
+This repository contains 3D models of keycaps in MDA profile in the step and stl format. we provide doubleshot and dye keycaps model. The 3d model create by FreeCAD.
 
-## Profile of Keys MDA keycaps
+## Row profile of Keys MDA keycaps
+![image](https://github.com/T28GoProg/MDA-keycaps/blob/main/MDA%20profile%202.jpg)
+![image](https://github.com/T28GoProg/MDA-keycaps/blob/main/MDA%20profile.jpg)
