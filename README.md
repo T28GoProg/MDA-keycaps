@@ -5,6 +5,16 @@ This repository contains 3D models of keycaps in MDA profile in the step and stl
 ![image](https://github.com/T28GoProg/MDA-keycaps/blob/main/MDA%20profile%202.jpg)
 ![image](https://github.com/T28GoProg/MDA-keycaps/blob/main/MDA%20profile.jpg)
 
+Doubleshot Keycaps
+---------
+the thickness of the doubleshot shell 1mm, inside is 0.5mm.
+![image]()
+
+Dye keycaps
+---------
+the thickness of the dye keycaps is 1.5mm.
+![image]()
+
 Spacebar Sizes:
 ----------
 ![image]()
@@ -26,7 +36,7 @@ Row 4:
 Row 5:
 ![image]()
 
-Updates:
+3D model Updates:
 ---------------------
 
 
