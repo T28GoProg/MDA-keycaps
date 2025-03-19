@@ -38,7 +38,13 @@ Row 5:
 
 3D model Updates:
 ---------------------
+None
 
+TODO
+-------------
+* add stepped key
+* add ISO Enter
+* number pad 2U "+" and "enter"
 
 Facing challenge using FreeCAD to create 3D model 
 ---------
