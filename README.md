@@ -49,4 +49,5 @@ TODO
 Facing challenge using FreeCAD to create 3D model 
 ---------
 FreeCAD is base on OCCT. OCCT have Bugs, such as Fillet problem, Blend, Boolean, etc. it causes computing failures.  
-![image]()
+![image](https://github.com/T28GoProg/MDA-keycaps/blob/main/Error%20Images/FreeCAD%20fillet%20bugs_2.PNG)
+![image](https://github.com/T28GoProg/MDA-keycaps/blob/main/Error%20Images/FreeCAD%20fillet%20bugs.PNG)
